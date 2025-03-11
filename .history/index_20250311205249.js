@@ -25,6 +25,7 @@ const nestedMuppet = {
   nestedPartner: 'Miss Piggy'
 };
 
+
 //1. Destructure based on animal sounds
 const [moo, neigh, baa, oink, cluck] = farmAnimals.split(" ");
 console.log(moo, neigh, baa, oink, cluck); // cow horse sheep pig chicken
